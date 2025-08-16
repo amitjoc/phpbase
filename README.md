@@ -10,5 +10,6 @@ following a well-organized directory convention
 
 ## Conventional commit
 
-    [Conventional commit](https://www.conventionalcommits.org/en/v1.0.0/) 
-    [GitHub CC](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
+[Conventional commit](https://www.conventionalcommits.org/en/v1.0.0/) 
+
+[GitHub CC](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
