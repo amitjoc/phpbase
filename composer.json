@@ -1,0 +1,15 @@
+{
+    "name": "er.amitjoshi/phpbase",
+    "description": "base folder for core php projects",
+    "type": "project",
+    "require-dev": {},
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amit Joshi",
+            "email": "amitjoc@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
